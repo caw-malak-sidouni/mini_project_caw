@@ -10,7 +10,7 @@ import UserAvatar from './UserAvatar'
 const TableSampleClients = () => {
   const { clients } = useSampleClients()
 
-  const perPage = 5
+  const perPage = 10
 
   const [currentPage, setCurrentPage] = useState(0)
 
