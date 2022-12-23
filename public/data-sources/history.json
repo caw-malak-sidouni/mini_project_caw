@@ -88,12 +88,6 @@
         "subject":"Card Games",
         "description":"playing card games at family party",
         "date":"11/10/2021"
-        },
-        {
-            "id":16,
-            "subject":"Card Games",
-            "description":"playing card games at family party",
-            "date":"11/10/2021"
-            }
+        }
 
     ]}
