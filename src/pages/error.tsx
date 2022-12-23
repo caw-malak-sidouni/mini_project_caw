@@ -1,9 +1,9 @@
 import React from 'react'
 import type { ReactElement } from 'react'
 import Head from 'next/head'
-import BaseButton from '../components/BaseButton'
-import CardBox from '../components/CardBox'
-import SectionFullScreen from '../components/SectionFullScreen'
+import BaseButton from '../components/base/BaseButton'
+import CardBox from '../components/cardBox/CardBox'
+import SectionFullScreen from '../components/section/SectionFullScreen'
 import LayoutGuest from '../layouts/Guest'
 import { getPageTitle } from '../config'
 

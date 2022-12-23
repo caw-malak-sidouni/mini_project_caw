@@ -2,8 +2,8 @@ import Head from 'next/head'
 import Image from 'next/image'
 import React, { ReactElement } from 'react'
 import LayoutAuthenticated from '../layouts/Authenticated'
-import SectionMain from '../components/SectionMain'
-import SectionTitle from '../components/SectionTitle'
+import SectionMain from '../components/section/SectionMain'
+import SectionTitle from '../components/section/SectionTitle'
 import { appTitle, getPageTitle } from '../config'
 
 const ResponsivePage = () => {
